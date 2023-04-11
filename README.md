@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfarme. I am a PhD student at University of Missouri. My background is in healthcare, specifically nursing. 
+- 👋 Hi, I’m @mfarme. I am a PhD student at a University in Missouri and Nurse Leader at a healthcare system in SW MO. My background is in healthcare, specifically nursing. 
 - 👀 I’m interested in biostatistics, machine learning for healthcare application, and population health. 
 - 🌱 I’m currently learning utilization of PySpark to extract EMR data from a large "real world" dataset. 
 - 💞️ I’m looking to collaborate on health research projects and Kaggle competitions to improve my skills in Python or R. 
