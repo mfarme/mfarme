@@ -1,8 +1,8 @@
 <h1>matt | nurse | scientist | coffee nerd</h1>
-<p>- 👋 Hi, I have a PhD from the University of Missouri, Sinclair School of Nursing. I work as a Clinical Data leader at a healthcare system and a research scientist at the University of Missouri.  
-  - 👀 I’m focused on biostatistics, AI/ML for healthcare applications, natural language processing, data science methods for social sciences, open science, and population health.  
-  - 🌱 I’m currently working on applications of AI/ML methods with population health data and NLP. 
-  - 📫 How to reach me: mfarme@outlook.com</p>
+<p>👋 Hi, I have a PhD from the University of Missouri, Sinclair School of Nursing. I work as a Clinical Data leader at a healthcare system and a research scientist at the University of Missouri.
+<p>👀 I’m focused on biostatistics, AI/ML for healthcare applications, natural language processing, data science methods for social sciences, open science, and population health. 
+<p>🌱 I’m currently working on applications of AI/ML methods with population health data and NLP.
+<p>📫 How to reach me: mfarme@outlook.com</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
