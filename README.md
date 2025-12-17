@@ -1,5 +1,5 @@
-<h1>matt | nurse | scientist | coffee nerd</h1>
-<p>👋 Hi, I have a PhD from the University of Missouri, Sinclair School of Nursing. I work as a Clinical Data leader at a healthcare system and a research scientist at the University of Missouri.
+<h1>matt | registered nurse | scientist | coffee nerd</h1>
+<p>👋 Hi, I have a PhD from the University of Missouri, Sinclair School of Nursing. I work as a clinical data science and analytics leader at a healthcare system and a research scientist at the University of Missouri.
 <p>👀 I’m focused on biostatistics, AI/ML for healthcare applications, natural language processing, data science methods for social sciences, open science, and population health. 
 <p>🌱 I’m currently working on applications of AI/ML methods with population health data and NLP.
 <p>📫 How to reach me: mfarme@outlook.com</p>
